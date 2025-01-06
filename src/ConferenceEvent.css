@@ -54,7 +54,8 @@
     margin: 0 10px;
   }
   .main_container{
-    display: flex;    
+    display: flex;  
+    font-weight: bold;  
   }
   .items-information {
     display: flex;
